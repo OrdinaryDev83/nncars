@@ -1,1 +1,2 @@
-"Project/Assets/TextMesh Pro/*" linguist-detectable=false
+*.shader linguist-detectable=false
+*.cginc linguist-detectable=false
